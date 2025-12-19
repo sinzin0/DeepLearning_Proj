@@ -1,2 +1,2 @@
 # DeepLearning_Proj
-ht
+딥러닝 실제 과제
